@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[43,)"  # 43.x is for 1.19.2
+license="MIT"
+
+[[mods]]
+modId="typewriterapi"
+version="1.0"
+displayName="Typewriter API"
+description='''Typewriter text API mod for Minecraft Forge 1.19.2'''
